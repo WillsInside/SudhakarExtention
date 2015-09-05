@@ -17,6 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"third branch");
+    
+    NSLog(@"third child");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
